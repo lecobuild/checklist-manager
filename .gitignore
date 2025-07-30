@@ -18,7 +18,6 @@ dist
 build
 
 # Переменные окружения
-.env
 .env.local
 .env.*.local
 
